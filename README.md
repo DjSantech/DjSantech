@@ -7,6 +7,7 @@
 ## Backend:
 ![Express js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=red">
+## <b>Github Stats</b>:
 <div align="left" style="background-color: #00008B" >
  <img src="https://github-readme-stats.vercel.app/api?username=DjSantech&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" alt="Stats" />
    
