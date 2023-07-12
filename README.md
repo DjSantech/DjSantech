@@ -6,16 +6,16 @@
 
 ## Backend:
 ![Express js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-<img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD">
-<div align="left">
- <img src="https://github-readme-stats.vercel.app/api?username=DjSantech&count_private=true&show_icons=true&theme=merko&include_all_commits=true" alt="Stats" />
+<img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=red">
+<div align="left" style="background-color: #00008B" >
+ <img src="https://github-readme-stats.vercel.app/api?username=DjSantech&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" alt="Stats" />
    
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DjSantech&theme=merko&hide_border=true" width="525" height="200" alt="DjSantech"/>
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DjSantech&theme=dracula&hide_border=true" width="525" height="200" alt="DjSantech"/>
 
   </div>
   <div align="center">
    
-  <img src="https://github-profile-trophy.vercel.app/?username=Juandagarc&theme=matrix&column=3"  width="400" alt="Juandagarc"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=DjSantech&theme=dracula&column=3"  width="400" alt="DjSantech"/>
   
    </div>
 <!--
