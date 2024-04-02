@@ -1,4 +1,5 @@
 ### Hello World 👋
+Hello! 👋 I'm Santiago Guevara Méndez, currently pursuing a degree in Systems Engineering at the Technological University of Pereira. I'm passionate about programming and software development, proficient in various programming languages and technologies to build innovative solutions. Recently, I completed a Full Stack bootcamp, totaling over 200 hours of immersive experience in both client-side and server-side development. I'm excited to collaborate on interesting projects and continue learning on this thrilling technological journey. Welcome to my GitHub profile! 🚀
 -Nowadays I'm using:</br></br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
 ## Frontend:
