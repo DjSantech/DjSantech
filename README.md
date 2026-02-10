@@ -42,16 +42,6 @@ Hi! 👋 I'm Santiago Guevara Méndez, and I'm studying Systems Engineering at t
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DjSantech&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Santiago's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DjSantech&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 ## 🤝 Let’s connect
 - 📧 Email: santiguevara20161@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/santiago-guevara-a15330283/](https://www.linkedin.com/in/santiago-guevara-a15330283/)
