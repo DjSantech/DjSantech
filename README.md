@@ -25,23 +25,32 @@ Hi! 👋 I'm Santiago Guevara Méndez, and I'm studying Systems Engineering at t
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Project / Proyecto Destacado
 **[Vaporizers E-commerce Platform](https://vapes-princys-web-page.vercel.app)**
-- **Stack:** Full-stack web application built with **Vite + TypeScript + React**.
-- **Database:** **MongoDB** for dynamic product management.
-- **Deployment:** Frontend on **Vercel**, Backend on **Render**.
-- **Key Features:** REST API integration, robust form validations, modular architecture, and responsive design.
+- **English:** Full-stack web application built with **Vite + TypeScript + React**. Includes **MongoDB** for dynamic product management. Deployed on **Vercel** (Frontend) and **Render** (Backend). Features REST API integration, robust form validations, and responsive design.
+- **Español:** Aplicación web Full-stack construida con **Vite + TypeScript + React**. Incluye **MongoDB** para la gestión dinámica de productos. Desplegada en **Vercel** (Frontend) y **Render** (Backend). Cuenta con integración de REST API, validaciones de formularios y diseño responsivo.
 
 ---
 
-## 🧠 What I bring to the table
-- **Type Safety:** Expert use of TypeScript to ensure bug-free and maintainable code.
-- **Modern Performance:** Using Vite for lightning-fast development and optimized builds.
-- **Real-world Experience:** Proven ability to deliver production-ready software for local businesses.
-- **Clean Architecture:** Experience with modular codebases and Git-based collaboration.
+## 🧠 What I bring to the table / Mi valor agregado
+- **Type Safety / Tipado Seguro:** - *EN:* Expert use of TypeScript to ensure bug-free and maintainable code.
+  - *ES:* Uso experto de TypeScript para garantizar código libre de errores y fácil de mantener.
+- **Modern Performance / Rendimiento Moderno:** - *EN:* Using Vite for lightning-fast development and optimized builds.
+  - *ES:* Uso de Vite para un desarrollo ultrarrápido y builds optimizados.
+- **Real-world Experience / Experiencia Real:** - *EN:* Proven ability to deliver production-ready software for local businesses.
+  - *ES:* Capacidad comprobada para entregar software listo para producción a negocios locales.
+- **Clean Architecture / Arquitectura Limpia:** - *EN:* Experience with modular codebases and Git-based collaboration.
+  - *ES:* Experiencia con bases de código modulares y colaboración basada en Git.
 
 ---
 
-## 🤝 Let’s connect
+## 📊 GitHub Stats
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=DjSantech&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Santiago's GitHub stats" />
+</div>
+
+---
+
+## 🤝 Let’s connect | Conectemos
 - 📧 Email: santiguevara20161@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/santiago-guevara-a15330283/](https://www.linkedin.com/in/santiago-guevara-a15330283/)
