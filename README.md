@@ -45,13 +45,15 @@ Hi! 👋 I'm Santiago Guevara Méndez, and I'm studying Systems Engineering at t
 ---
 
 ## 📊 GitHub Stats / Estadísticas
+
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DjSantech&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DjSantech&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
   
   <br/>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DjSantech&theme=dracula" alt="Commit Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DjSantech&theme=dracula" alt="Overall Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DjSantech&theme=tokyonight" alt="Commit Languages" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DjSantech&theme=merko" alt="Overall Stats" />
 </div>
 ---
 
