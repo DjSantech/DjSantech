@@ -68,5 +68,5 @@
 ---
 
 ## 🤝 Let’s Connect / Conectemos
-- 📧 **Email:** santiguevara20161@gmail.com[cite: 1]
-- 💼 **LinkedIn:** [linkedin.com/in/santiago-guevara-mendez](https://www.linkedin.com/in/santiago-guevara-a15330283/)[cite: 1]
+- 📧 **Email:** santiguevara20161@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/santiago-guevara-mendez](https://www.linkedin.com/in/santiago-guevara-a15330283/)
