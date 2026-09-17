@@ -3,13 +3,15 @@
 # Santiago Guevara Méndez
 **Systems Engineering Student @ UTP | Full-Stack Web Developer**
 
+💼 **Open to:** Freelance projects | Junior Full-Stack roles
+
 ---
 
 ### 👤 About Me / Sobre Mí
 
-**EN:** I am a Systems Engineering student at the Technological University of Pereira (UTP)[cite: 1]. I am passionate about building modern, high-performance web applications that solve real-world problems. My experience ranges from creating corporate platforms and administrative systems to developing custom automated tools. I love clean architecture, type safety, and optimizing for excellent user experiences.
+**EN:** Systems Engineering student (UTP) building modern, high-performance full-stack web apps with Next.js, TypeScript & MongoDB. Currently shipping ceofragancias.com. I love clean architecture, type safety, and optimizing for excellent user experiences.
 
-**ES:** Estudiante de Ingeniería de Sistemas en la Universidad Tecnológica de Pereira (UTP)[cite: 1]. Me apasiona construir aplicaciones web modernas y de alto rendimiento que resuelvan problemas del mundo real. Mi experiencia va desde la creación de plataformas corporativas y sistemas administrativos, hasta el desarrollo de herramientas automatizadas a la medida. Amante de la arquitectura limpia, el código tipado seguro y la optimización de la experiencia de usuario.
+**ES:** Estudiante de Ingeniería de Sistemas (UTP) construyendo aplicaciones web full-stack modernas y de alto rendimiento con Next.js, TypeScript y MongoDB. Actualmente en producción con ceofragancias.com. Amante de la arquitectura limpia, el código tipado seguro y la optimización de la experiencia de usuario.
 
 ---
 
@@ -35,6 +37,10 @@
 
 ## 🚀 Featured Projects / Proyectos Destacados
 
+### 🌸 [CEOFRAGANCIAS – Fragrances E-commerce](https://ceofragancias.com)
+- **EN:** Full-stack e-commerce platform for a fragrance retail business. Built with **Next.js 15** and a **TypeScript** backend, featuring secure payment processing via **Mercado Pago API** integration and a custom domain deployment on **Vercel**.
+- **ES:** Plataforma de e-commerce full-stack para un negocio de venta de perfumes. Desarrollada con **Next.js 15** y backend en **TypeScript**, con procesamiento de pagos seguro mediante integración con la **API de Mercado Pago** y despliegue en dominio personalizado sobre **Vercel**.
+
 ### 📊 [Organizador de Capacitaciones Web](https://github.com/DjSantech/OrganizadorCapacitaciones-)
 - **EN:** Internal administrative system to automate training hours management. Built with **Next.js 15, TypeScript, Tailwind CSS, MongoDB Atlas**, and interactive data visualization using **Recharts**.
 - **ES:** Sistema web administrativo para automatizar el control de horas de capacitación del personal. Desarrollado con **Next.js 15, TypeScript, Tailwind CSS, MongoDB Atlas** y visualización de datos interactiva con **Recharts**.
@@ -44,8 +50,8 @@
 - **ES:** Sitio web empresarial e institucional para una empresa de alquiler de luces y sonido. Desarrollado con **Next.js, TypeScript y Tailwind CSS**, optimizado rigurosamente para rendimiento y **SEO**.
 
 ### 🏪 [Vapes Princys E-commerce](https://vapes-princys-web-page.vercel.app)
-- **EN:** Full-stack web application built with **React, TypeScript, and MongoDB** for dynamic inventory management. Features a secure REST API and responsive UX[cite: 1].
-- **ES:** Aplicación web Full-stack construida con **React, TypeScript y MongoDB** para la gestión dinámica de productos[cite: 1]. Cuenta con una API REST segura y diseño 100% responsivo[cite: 1].
+- **EN:** Full-stack web application built with **React, TypeScript, and MongoDB** for dynamic inventory management. Features a secure REST API and responsive UX.
+- **ES:** Aplicación web Full-stack construida con **React, TypeScript y MongoDB** para la gestión dinámica de productos. Cuenta con una API REST segura y diseño 100% responsivo.
 
 ---
 
@@ -67,6 +73,6 @@
 
 ---
 
-## 🤝 Let’s Connect / Conectemos
+## 🤝 Let's Connect / Conectemos
 - 📧 **Email:** santiguevara20161@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/santiago-guevara-mendez](https://www.linkedin.com/in/santiago-guevara-a15330283/)
