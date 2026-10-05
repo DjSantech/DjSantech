@@ -5,13 +5,17 @@
 
 💼 **Open to:** Freelance projects | Junior Full-Stack roles
 
+<p align="center">
+  <img src="assets/dj-santech.svg" alt="DJ tocando en la cabina" width="420">
+</p>
+
 ---
 
 ### 👤 About Me / Sobre Mí
 
-**EN:** Systems Engineering student (UTP) building modern, high-performance full-stack web apps with Next.js, TypeScript & MongoDB. Currently shipping ceofragancias.com. I love clean architecture, type safety, and optimizing for excellent user experiences.
+**EN:** Systems Engineering student (UTP) building modern, high-performance full-stack web apps with Next.js, TypeScript & MongoDB. Currently building a POS system for a bakery (panesypan.com) and shipping ceofragancias.com. I love clean architecture, type safety, and optimizing for excellent user experiences.
 
-**ES:** Estudiante de Ingeniería de Sistemas (UTP) construyendo aplicaciones web full-stack modernas y de alto rendimiento con Next.js, TypeScript y MongoDB. Actualmente en producción con ceofragancias.com. Amante de la arquitectura limpia, el código tipado seguro y la optimización de la experiencia de usuario.
+**ES:** Estudiante de Ingeniería de Sistemas (UTP) construyendo aplicaciones web full-stack modernas y de alto rendimiento con Next.js, TypeScript y MongoDB. Actualmente desarrollando un sistema POS para una panadería (panesypan.com) y en producción con ceofragancias.com. Amante de la arquitectura limpia, el código tipado seguro y la optimización de la experiencia de usuario.
 
 ---
 
@@ -32,10 +36,19 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=a33dc1)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects / Proyectos Destacados
+
+### 🥖 [Panes & Pan – POS & Web Platform](https://panesypan.com)
+- **EN:** POS, admin panel and public website for a bakery in Dosquebradas, Colombia. Real-time dashboard (**Socket.IO**), cash-register reconciliation, inventory control, role-based access (**RBAC**) and automated testing (**Vitest, Playwright**) with CI on **GitHub Actions**. Built with **React, TypeScript, Node.js/Express and MongoDB Atlas**; public site in **Next.js**.
+- **ES:** Sistema POS, panel administrativo y sitio web para una panadería en Dosquebradas. Dashboard en tiempo real (**Socket.IO**), cuadre de caja con arqueo, control de inventario, acceso por roles (**RBAC**) y pruebas automatizadas (**Vitest, Playwright**) con CI en **GitHub Actions**. Desarrollado con **React, TypeScript, Node.js/Express y MongoDB Atlas**; sitio público en **Next.js**.
 
 ### 🌸 [CEOFRAGANCIAS – Fragrances E-commerce](https://ceofragancias.com)
 - **EN:** Full-stack e-commerce platform for a fragrance retail business. Built with **Next.js 15** and a **TypeScript** backend, featuring secure payment processing via **Mercado Pago API** integration and a custom domain deployment on **Vercel**.
@@ -75,4 +88,4 @@
 
 ## 🤝 Let's Connect / Conectemos
 - 📧 **Email:** santiguevara20161@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/santiago-guevara-mendez](https://www.linkedin.com/in/santiago-guevara-a15330283/)
+- 💼 **LinkedIn:** [linkedin.com/in/santiago-guevara-a15330283](https://www.linkedin.com/in/santiago-guevara-a15330283/)
